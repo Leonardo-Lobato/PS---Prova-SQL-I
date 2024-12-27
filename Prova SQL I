@@ -1,0 +1,8 @@
+-- Criação do banco de dados
+CREATE DATABASE IF NOT EXISTS Infinity_School;
+
+-- Seleciona o banco de dados
+USE Infinity_School;
+
+-- Mensagem informativa
+SELECT 'Banco de dados Infinity_School criado e selecionado com sucesso!' AS Mensagem;
